@@ -29,6 +29,7 @@ The project achieved the following:
 - **Sentiment Analysis**: Sentiment scores reflected the practical and positive tone of the book, with phrases like “highly nourishing” underscoring the value placed on food quality in both texts.
 - **Cosine Similarity**: With a similarity score of 0.7755, the analysis revealed shared themes of practical recipes and ingredient focus, despite the books' differing contexts.
 - **Clustering Visualization**: The MDS plot visually demonstrated content similarity between the two books.
+  ![Graph](https://github.com/user-attachments/assets/c3b29bc3-28fc-4398-b5f6-d5d5d72eda04)
 - **Text Generation**: Markov chains generated text consistent with each book’s style, producing recipe-like instructions for *The Food of the Gods* and practical cooking tips in the style of *Foods That Will Win The War*.
 
 ## Reflection
