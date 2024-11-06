@@ -32,8 +32,4 @@ The project achieved the following:
 - **Text Generation**: Markov chains generated text consistent with each book’s style, producing recipe-like instructions for *The Food of the Gods* and practical cooking tips in the style of *Foods That Will Win The War*.
 
 ## Reflection
-This project was both challenging and insightful. Handling large texts for clustering required optimization, which I managed by simplifying tokenization. Testing each analysis component individually helped refine the results.
-
-From a learning perspective, I realized the versatility of text analysis in understanding themes, sentiment, and content generation. GenAI tools were instrumental in improving the clustering approach and sentiment analysis. Going forward, I aim to explore more advanced sentiment models. Having a clearer understanding of cosine similarity and clustering at the start would have streamlined my project.
-
-This project not only improved my technical skills but also deepened my appreciation for thematic analysis and synthetic text generation.
+This project was both challenging and insightful. Testing each analysis component individually helped refine the results. From a learning perspective, I realized the versatility of text analysis in understanding themes, sentiment, and content generation. GenAI tools were instrumental in improving the clustering approach and sentiment analysis. Going forward, I aim to explore more advanced sentiment models. Having a clearer understanding of cosine similarity and clustering at the start would have streamlined my project.  This project not only improved my technical skills but also deepened my appreciation for thematic analysis and synthetic text generation.
