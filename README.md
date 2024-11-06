@@ -1,4 +1,4 @@
- Project Title: Text Analysis and Generation with Project Gutenberg Data
+### Project Title: Text Analysis and Generation with Project Gutenberg Data
 
 ## Project Overview
 In this project, I used two texts from Project Gutenberg to explore text analysis techniques and implement a text generation tool. The texts used were *"The Food of the Gods: A Popular Account of Cocoa"* by Brandon Head and *"Foods That Will Win The War and How to Cook Them"* by C. Houston Goudiss and Alberta M. Goudiss. By applying methods such as word frequency counting, sentiment analysis, cosine similarity, and Markov chains, my goal was to extract insights from the books and compare themes, while also generating synthetic text in the style of each book.
